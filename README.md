@@ -1,1 +1,1 @@
-# clash_template
+# Template for clash subscription conversion
