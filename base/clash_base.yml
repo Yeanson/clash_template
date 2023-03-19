@@ -127,6 +127,7 @@ dns:
     - "*.*.*.srv.nintendo.net"
     - "*.ipv6.microsoft.com"
     - speedtest.cros.wr.pvp.net
+    - "*.nxtlnodes.com"
   fallback-filter:
     geoip: true
     ipcidr:
