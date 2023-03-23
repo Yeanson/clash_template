@@ -129,6 +129,8 @@ dns:
     - speedtest.cros.wr.pvp.net
     - "*.nxtlnodes.com"
     - suo.yt
+    - github.com
+    - "*.github.com"
   fallback-filter:
     geoip: true
     geoip-code: CN
