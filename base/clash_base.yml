@@ -35,7 +35,13 @@ clash-for-android:
   append-system-dns: false
 profile:
   tracing: true
-
+tun:
+  enable: true
+  stack: gvisor
+  auto-route: true
+  auto-detect-interface: true
+  dns-hijack:
+    - any:53
 dns:
   enable: true # 是否启用dns false
   ipv6: false
