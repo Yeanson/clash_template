@@ -29,7 +29,7 @@ mode: Rule
 log-level: info
 
 # Clash 的 RESTful API
-external-controller: '127.0.0.1:9090'
+external-controller: '0.0.0.0:9090'
 
 clash-for-android:
   append-system-dns: false
