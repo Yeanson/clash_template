@@ -90,4 +90,4 @@ dns:
       - +.gvt1.com
 secret: dehere
 bind-address: "*"
-external-ui: "/usr/local/etc/clash/ui"
+external-ui: "../ui"
