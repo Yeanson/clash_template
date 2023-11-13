@@ -68,7 +68,7 @@ dns:
     - "*.lan"
     - "*.nxtlnodes.com"
     - suo.yt
-     - time.*.com
+    - time.*.com
     - time.*.gov
     - time.*.edu.cn
     - time.*.apple.com
