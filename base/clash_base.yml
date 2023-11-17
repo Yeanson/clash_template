@@ -65,6 +65,7 @@ dns:
     - "*.msftconnecttest.com"
     - WORKGROUP
     - "*.yeanson.cn"
+    - "*.zhao.website"
     - "*.lan"
     - "*.nxtlnodes.com"
     - suo.yt
